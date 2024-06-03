@@ -32,7 +32,7 @@ function CharacterList() {
         Back to Home
       </Button>
       <Button variant="contained" component={Link} to="/create" style={{ backgroundColor: 'blue', color: 'white', marginLeft: '10px' }}>
-        Create Another Character
+      Apply Now!
       </Button>
     </Container>
   );
